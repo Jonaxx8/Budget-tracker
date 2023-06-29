@@ -1,5 +1,6 @@
+import 'package:app/login_page.dart';
 import 'package:flutter/material.dart';
-import 'package:app/widgets/expenses.dart';
+
 
 var kColorScheme =
     ColorScheme.fromSeed(seedColor: const Color.fromARGB(255, 96, 59, 181));
@@ -48,7 +49,7 @@ void main() {
                   fontSize: 14,
                 ))),
         themeMode: ThemeMode.system,
-        home: const Expenses(),
+        home: const LoginPage(),
       ),
     );
 }
