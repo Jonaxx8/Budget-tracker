@@ -1,16 +1,15 @@
 # app
 
-A new Flutter project.
+A budget tracker application.
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
+This app shows the user's expenditure in a graphical manner with a clean ui and provides great functionality.
 
-A few resources to get you started if this is your first Flutter project:
+Screen shots -
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Untitled](https://github.com/Jonaxx8/Genobits-budgetTracker/assets/91548941/b0b49b49-70ca-414e-8774-f6775be01de1)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Even comes with Dark Mode -
+
+![Slide 16_9 - 2](https://github.com/Jonaxx8/Genobits-budgetTracker/assets/91548941/344afbb2-6ac1-48e3-95a3-588298b779e0)
