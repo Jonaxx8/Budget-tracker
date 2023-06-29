@@ -17,12 +17,12 @@ class _ExpensesState extends State<Expenses> {
   final List<Expense> _registeredExpenses = [
     Expense(
         title: 'Flutter course',
-        amount: 19.99,
+        amount: 3999,
         date: DateTime.now(),
         category: Category.work),
     Expense(
         title: 'cinema',
-        amount: 15.99,
+        amount: 249.99,
         date: DateTime.now(),
         category: Category.leisure),
   ];
